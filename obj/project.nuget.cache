@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cy0MJ2Gk1V2vHdFx426Yf8YFjXg0QWdRpXp4G5YV9sxiDddX8I466dvYO8xuFeJAtrnApKQ+r7w+2wbDaaLAMA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\simpleApiProject\\simpleApiProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Grandlook\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Grandlook\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Grandlook\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Grandlook\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Grandlook\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Grandlook\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
